@@ -229,3 +229,34 @@ Repair and maintain items such as clothing so that they last longer.</p>
 
 <h4>2. Waste reuse</h4>
 <p>
+Reuse can be defined as using a waste product without further transformation and without changing its shape or original nature. This is the second option in the waste hierarchy. Different types of solid wastes can be reused, such as bottles, old clothes, books and anything else that is used again for a similar purpose to that originally intended.</p>
+<p>
+Reuse means that less solid waste is produced. It brings other benefits by taking useful products discarded by those who no longer want them and passing them to those who do.</p>
+
+<h4>3. Waste recycling</h4>
+<p>
+Recycling waste means that the material is reprocessed before being used to make new products. The reprocessing activities can have an impact on people’s health and the environment, but these impacts are usually lower than those from making the product from new, raw materials. Recycling means treating the materials as valuable resources rather than as waste. It has many benefits but it is important to have a market for the end product, otherwise the process will not be economically sustainable.</p>
+<p>
+The options for recycling depend on the type of waste. For example, waste paper can be broken down to its fibres in a process called pulping. The pulp is cleaned and then formed into new paper to be used for printing or packaging. Waste metals and glass can also be recycled by melting them down into new raw materials. Sheet metals can be beaten and reformed into new products. Plastic bottles can be ground down and used to make plastic rope or plastic coating for electric wires..
+</p>
+
+  <h3>Bottom Line</h3>
+<p>
+As you can see there are plenty of important things that you should know about waste management and disposal in order to ensure that you and the environment around you are safe.
+</p>
+<p>
+While it may not be apparent, it is your choice that paves the way towards a better world and a healthier environment. That is why always be sustainable and make actionable efforts to manage and treat waste.</p>
+</p>
+<h4>Reference </h4>
+<a href="https://www.conserve-energy-future.com/waste-management-and-waste-disposal-methods.php">https://www.conserve-energy-future.com/waste-management-and-waste-disposal-methods.php</a> 
+<br>
+<a href="https://www.thehindu.com/opinion/op-ed/cleaning-up-the-mess/article26763338.ece">https://www.thehindu.com/opinion/op-ed/cleaning-up-the-mess/article26763338.ece</a>
+<br>
+<a href=" https://www.intechopen.com/books/management-of-hazardous-wastes/introductory-chapter-introduction-to-hazardous-waste-management">https://www.intechopen.com/books/management-of-hazardous-wastes/introductory-chapter-introduction-to-hazardous-waste-management</a>
+<br>
+<a href=" https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=80574&printable=1">https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=80574&printable=1</a>
+<br>
+</div>
+
+</body>
+</html>
